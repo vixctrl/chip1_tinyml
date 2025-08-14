@@ -1,0 +1,17 @@
+# Simulation dumps / build
+*.vcd
+*.vvp
+*.fst
+*.o
+a.out
+*.log
+*.out
+
+# GTKWave session files
+*.sav
+*.gtkw
+
+# Editors
+.vscode/
+*.swp
+__pycache__/
